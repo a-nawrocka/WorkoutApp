@@ -4,7 +4,8 @@
 
 ```
 As a user
-I want to log my running workouts with location, distance, time, pace and steps/minute So that I can keep a log of all my running
+I want to log my running workouts with location, distance, time, pace and steps/minute
+So that I can keep a log of all my running
 ```
 
 ```
